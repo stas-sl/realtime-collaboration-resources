@@ -38,12 +38,12 @@
 
 ## Sources
 
-* https://github.com/share/sharedb
-* https://github.com/rizzoma
-* https://github.com/gritzko/swarm
-* https://github.com/gulf
-* https://github.com/dmitryuv/atext-changeset
-* https://github.com/goodow/realtime-store
+* https://github.com/share/sharedb [JavaScript] - Realtime database backend based on Operational Transformation of JSON documents, uses MongoDB and Redis
+* https://github.com/rizzoma [CoffeeScript/JavaScript] - Google Wave clone based on ShareDB
+* https://github.com/gritzko/swarm [JavaScript] - CRDT implementation
+* https://github.com/gulf [JavaScript] - Operational transformation control layer with several bindings to contenteditable, quill editor, socialcalc. Though the author says he found something better than OT - CRDT
+* https://github.com/dmitryuv/atext-changeset [JavaScript] - A library for building collaborative rich-text editors using operational transformation. It's based on easysync spec from the Etherpad-Lite project
+* https://github.com/goodow/realtime-store [Java] - Google Docs–style collaboration via the use of operational transforms. Documents are made of 4 types of collaborative elements: String, Lists, Maps and Custom objects. A Goodow Realtime Store collaborative document can have as many of these collaborative elements as they need
 * https://github.com/goodow/realtime-operation
 * https://github.com/marcelklehr/changesets
 * https://github.com/hivejs
@@ -58,7 +58,8 @@
 * https://github.com/rudi-c/alchemy-book
 
 ## Demos
-* http://alchemy.digitalfreepen.com/
+* http://alchemy.digitalfreepen.com
+* http://realtimeplayground.goodow.com
 
 ## Examples in real world
 
