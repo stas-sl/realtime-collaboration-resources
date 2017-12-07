@@ -24,14 +24,21 @@
 
 ## Articles
 
+* [CRDT Notes](https://github.com/pfrazee/crdt_notes) - Excerpts collected from papers and articles published on the Web
 * [A simple approach to building realtime collaborative text editor](http://digitalfreepen.com/2017/10/06/simple-real-time-collaborative-text-editor.html) - Nice explanation of CRDTs
-* [Discussion on ycombinator about Apache Wave](https://news.ycombinator.com/item?id=7532059)
 * [(Russian) Рождение, жизнь и смерть Волны - причины почему умер Google Wave](https://geektimes.ru/post/139475)
+
+## Discussions
+
+* [A Conflict-Free Replicated JSON Datatype on Hacker News](https://news.ycombinator.com/item?id=12303100)
+* [Apache Wave on Hacker News](https://news.ycombinator.com/item?id=7532059)
+* [ShareJS Google Group](https://groups.google.com/forum/#!forum/sharejs)
 
 ## Sources
 
 * https://github.com/share/sharedb
 * https://github.com/rizzoma
+* https://github.com/gritzko/swarm
 * https://github.com/gulf
 * https://github.com/dmitryuv/atext-changeset
 * https://github.com/goodow/realtime-store
