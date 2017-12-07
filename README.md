@@ -26,6 +26,7 @@
 
 ## Articles
 
+* [Understanding and Applying Operational Transformation](http://www.codecommit.com/blog/java/understanding-and-applying-operational-transformation)
 * [CRDT Notes](https://github.com/pfrazee/crdt_notes) - Excerpts collected from papers and articles published on the Web
 * [A simple approach to building realtime collaborative text editor](http://digitalfreepen.com/2017/10/06/simple-real-time-collaborative-text-editor.html) - Nice explanation of CRDTs
 * [(Russian) Рождение, жизнь и смерть Волны - причины почему умер Google Wave](https://geektimes.ru/post/139475)
@@ -44,6 +45,7 @@
 * https://github.com/gulf [JavaScript] - Operational transformation control layer with several bindings to contenteditable, quill editor, socialcalc. Though the author says he found something better than OT - CRDT
 * https://github.com/dmitryuv/atext-changeset [JavaScript] - A library for building collaborative rich-text editors using operational transformation. It's based on easysync spec from the Etherpad-Lite project
 * https://github.com/goodow/realtime-store [Java] - Google Docs–style collaboration via the use of operational transforms. Documents are made of 4 types of collaborative elements: String, Lists, Maps and Custom objects. A Goodow Realtime Store collaborative document can have as many of these collaborative elements as they need
+* https://github.com/Operational-Transformation/ot.js [JavaScript] - Operational Transformation Implementation (for text)
 * https://github.com/goodow/realtime-operation
 * https://github.com/marcelklehr/changesets
 * https://github.com/hivejs
@@ -60,6 +62,7 @@
 ## Demos
 * http://alchemy.digitalfreepen.com
 * http://realtimeplayground.goodow.com
+* https://operational-transformation.github.io/visualization.html - Operational Transformation Visualization
 
 ## Examples in real world
 
