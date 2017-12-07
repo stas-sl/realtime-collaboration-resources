@@ -4,6 +4,7 @@
 - [Papers](#papers)
 - [Talks](#talks)
 - [Articles](#articles)
+- [Discussions](#discussions)
 - [Sources](#sources)
 - [Examples in real world](#examples-in-real-world)
 
