@@ -46,6 +46,8 @@
 * https://github.com/dmitryuv/atext-changeset [JavaScript] - A library for building collaborative rich-text editors using operational transformation. It's based on easysync spec from the Etherpad-Lite project
 * https://github.com/goodow/realtime-store [Java] - Google Docs–style collaboration via the use of operational transforms. Documents are made of 4 types of collaborative elements: String, Lists, Maps and Custom objects. A Goodow Realtime Store collaborative document can have as many of these collaborative elements as they need
 * https://github.com/Operational-Transformation/ot.js [JavaScript] - Operational Transformation Implementation (for text)
+* https://github.com/automerge/automerge [JavaScript] - Automerge is a library of data structures for building collaborative applications in JavaScript
+* https://github.com/automerge/trellis [JavaScript] - Trellis is a Trello clone built as an Electron desktop application. We built Trellis to demo MPL, a distributed persistence library that allows developers to build collaborative applications that are realtime, offline, and network partition tolerant. Uses [automerge](https://github.com/automerge/automerge) library
 * https://github.com/goodow/realtime-operation
 * https://github.com/marcelklehr/changesets
 * https://github.com/hivejs
