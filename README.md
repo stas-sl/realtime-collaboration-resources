@@ -18,6 +18,7 @@
 * [An Algorithm for Selective Undo of Any Operation in Collaborative Applications](https://binshao.info/download/undo-group2010.pdf)
 * [Real time group editors without Operational Transformation (WOOT)](https://hal.inria.fr/inria-00071240/document)
 * [A comprehensive study of Convergent and Commutative Replicated Data Types](http://hal.upmc.fr/inria-00555588/document)
+* [Differential Synchronization](https://neil.fraser.name/writing/sync/eng047-fraser.pdf)
 
 ## Talks
 
@@ -26,6 +27,7 @@
 * [Conflict Resolution for Eventual Consistency - Martin Kleppmann](https://www.youtube.com/watch?v=yCcWpzY8dIA)
 * [(Russian) Виктор Грищенко — Swarm: синхронизируем рой устройств](https://www.youtube.com/watch?v=1ddm7WCMclA)
 * [Strong Eventual Consistency and Conflict-free Replicated Data Types by Marc Shapiro](https://www.youtube.com/watch?v=oyUHd894w18)
+* [Differential Synchronization](https://www.youtube.com/watch?v=S2Hp_1jqpY8)
 
 ## Articles
 
