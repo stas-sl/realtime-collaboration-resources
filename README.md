@@ -23,6 +23,7 @@
 - [How we built Synchrony, the engine behind collaborative editing in Confluence](https://www.youtube.com/watch?v=EgCYd6ei7QI)
 - [Conflict Resolution for Eventual Consistency - Martin Kleppmann](https://www.youtube.com/watch?v=yCcWpzY8dIA)
 - [(Russian) Виктор Грищенко — Swarm: синхронизируем рой устройств](https://www.youtube.com/watch?v=1ddm7WCMclA)
+- [Strong Eventual Consistency and Conflict-free Replicated Data Types by Marc Shapiro](https://www.youtube.com/watch?v=oyUHd894w18)
 
 ## Articles
 
