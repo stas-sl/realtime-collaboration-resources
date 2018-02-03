@@ -17,6 +17,7 @@
 * [Scalable XML Collaborative Editing with Undo](https://arxiv.org/pdf/1010.3615.pdf)
 * [An Algorithm for Selective Undo of Any Operation in Collaborative Applications](https://binshao.info/download/undo-group2010.pdf)
 * [Real time group editors without Operational Transformation (WOOT)](https://hal.inria.fr/inria-00071240/document)
+* [A comprehensive study of Convergent and Commutative Replicated Data Types](http://hal.upmc.fr/inria-00555588/document)
 
 ## Talks
 
