@@ -16,14 +16,15 @@
 * [Near Real-Time Peer-to-Peer Shared Editing on Extensible Data Types (about y-js)](https://github.com/y-js/yjs/files/695979/yjs.pdf)
 * [Scalable XML Collaborative Editing with Undo](https://arxiv.org/pdf/1010.3615.pdf)
 * [An Algorithm for Selective Undo of Any Operation in Collaborative Applications](https://binshao.info/download/undo-group2010.pdf)
+* [Real time group editors without Operational Transformation (WOOT)](https://hal.inria.fr/inria-00071240/document)
 
 ## Talks
 
-- [Concurrent Data & OT Alternatives](https://www.youtube.com/watch?v=zo8uGlqQaCo)
-- [How we built Synchrony, the engine behind collaborative editing in Confluence](https://www.youtube.com/watch?v=EgCYd6ei7QI)
-- [Conflict Resolution for Eventual Consistency - Martin Kleppmann](https://www.youtube.com/watch?v=yCcWpzY8dIA)
-- [(Russian) Виктор Грищенко — Swarm: синхронизируем рой устройств](https://www.youtube.com/watch?v=1ddm7WCMclA)
-- [Strong Eventual Consistency and Conflict-free Replicated Data Types by Marc Shapiro](https://www.youtube.com/watch?v=oyUHd894w18)
+* [Concurrent Data & OT Alternatives](https://www.youtube.com/watch?v=zo8uGlqQaCo)
+* [How we built Synchrony, the engine behind collaborative editing in Confluence](https://www.youtube.com/watch?v=EgCYd6ei7QI)
+* [Conflict Resolution for Eventual Consistency - Martin Kleppmann](https://www.youtube.com/watch?v=yCcWpzY8dIA)
+* [(Russian) Виктор Грищенко — Swarm: синхронизируем рой устройств](https://www.youtube.com/watch?v=1ddm7WCMclA)
+* [Strong Eventual Consistency and Conflict-free Replicated Data Types by Marc Shapiro](https://www.youtube.com/watch?v=oyUHd894w18)
 
 ## Articles
 
