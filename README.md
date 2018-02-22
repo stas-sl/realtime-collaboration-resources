@@ -28,6 +28,8 @@
 * [(Russian) Виктор Грищенко — Swarm: синхронизируем рой устройств](https://www.youtube.com/watch?v=1ddm7WCMclA)
 * [Strong Eventual Consistency and Conflict-free Replicated Data Types by Marc Shapiro](https://www.youtube.com/watch?v=oyUHd894w18)
 * [Differential Synchronization](https://www.youtube.com/watch?v=S2Hp_1jqpY8)
+* [UIST 2015 - Webstrates: Shareable Dynamic Media](https://www.youtube.com/watch?v=qgT94IkCmbo)
+* [Codestrates: Literate Computing with Webstrates](https://www.youtube.com/watch?v=QET8Z47CK0k)
 
 ## Articles
 
@@ -53,6 +55,8 @@
 * https://github.com/Operational-Transformation/ot.js [JavaScript] - Operational Transformation Implementation (for text)
 * https://github.com/automerge/automerge [JavaScript] - Automerge is a library of data structures for building collaborative applications in JavaScript
 * https://github.com/automerge/trellis [JavaScript] - Trellis is a Trello clone built as an Electron desktop application. We built Trellis to demo MPL, a distributed persistence library that allows developers to build collaborative applications that are realtime, offline, and network partition tolerant. Uses [automerge](https://github.com/automerge/automerge) library
+* https://github.com/Webstrates/Webstrates [JavaScript] - With Webstrates, webpages become collaboratively editable in real-time. Changes to the Document Object Model (DOM) of a page persist and are synchronised to all connected clients of the same page using Operational Transformation through ShareDB.
+* https://github.com/Webstrates/Codestrates [JavaSctipt] - Codestrates is a literate computing approach to developing interactive software inspired by interactive notebooks such as Jupyter notebook. However, in Codestrates, real-time collaboration is built in, it is possible to create stand-alone applications with persistent state, and to reprogram the functionality of the environment it self.
 * https://github.com/goodow/realtime-operation
 * https://github.com/marcelklehr/changesets
 * https://github.com/hivejs
@@ -70,6 +74,7 @@
 * http://alchemy.digitalfreepen.com
 * http://realtimeplayground.goodow.com
 * https://operational-transformation.github.io/visualization.html - Operational Transformation Visualization
+* http://codestrates.org/ - you can create a codestrate and edit HTML/CSS/JavaScript collaboratively
 
 ## Examples in real world
 
