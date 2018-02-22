@@ -42,6 +42,7 @@
 
 * [A Conflict-Free Replicated JSON Datatype on Hacker News](https://news.ycombinator.com/item?id=12303100)
 * [Apache Wave on Hacker News](https://news.ycombinator.com/item?id=7532059)
+* [Automerge on Hacker News](https://news.ycombinator.com/item?id=16309533)
 * [ShareJS Google Group](https://groups.google.com/forum/#!forum/sharejs)
 
 ## Sources
