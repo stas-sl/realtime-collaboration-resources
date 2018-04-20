@@ -36,6 +36,7 @@
 * [Understanding and Applying Operational Transformation](http://www.codecommit.com/blog/java/understanding-and-applying-operational-transformation)
 * [CRDT Notes](https://github.com/pfrazee/crdt_notes) - Excerpts collected from papers and articles published on the Web
 * [A simple approach to building realtime collaborative text editor](http://digitalfreepen.com/2017/10/06/simple-real-time-collaborative-text-editor.html) - Nice explanation of CRDTs
+* [Data Laced with History: Causal Trees & Operational CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
 * [(Russian) Рождение, жизнь и смерть Волны - причины почему умер Google Wave](https://geektimes.ru/post/139475)
 
 ## Discussions
